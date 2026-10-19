@@ -63,6 +63,7 @@ Sites and platforms that offer content across multiple countries:
 - [PBS](https://www.pbs.org/show/film/) - Documentaries and independent films
 - [Kanopy](https://www.kanopy.com/) - Free through many public libraries
 - [Hoopla](https://www.hoopladigital.com/) - Free through participating libraries
+- [Galaxy Movies](https://www.galaxymovies.app/free) - Search directory of movies and TV shows currently streaming free with ads across US services
 - **YouTube Channels**:
   - [FREE MOVIES](https://www.youtube.com/@FREEMOVIESYT/videos) - Collection of free full-length movies
   - [Timeless Classic Movies](https://www.youtube.com/channel/UCFTTjluTWUFW5nykBbdhe8g) - Classic films in public domain
